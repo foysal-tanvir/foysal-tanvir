@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @foysal-tanvir
 - 👀 I’m interested in Data scince
-- 🌱 I’m currently learning Health-Care In Data Scince.
+- 🌱 I’m currently Working Transport In Data Scince.
 - 💞️ I’m looking to collaborate on Health Care.
 - 📫 How to reach me https://www.linkedin.com/in/foysal-tanvir/
 
