@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQHzV2ldBX8G9g/article-cover_image-shrink_720_1280/0/1567163016962?e=2147483647&v=beta&t=Ly1gYkGJ9io2YH3-Tj6-Z2yzjk6oXjiVv7qZfXMU704)]
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQHzV2ldBX8G9g/article-cover_image-shrink_720_1280/0/1567163016962?e=2147483647&v=beta&t=Ly1gYkGJ9io2YH3-Tj6-Z2yzjk6oXjiVv7qZfXMU704)
 <h1 align="center">Hi 👋, I'm Foysal Tanvir</h1>
 <h3 align="center">Data Engineer|Data Analyst | Data Strategy</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
